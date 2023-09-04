@@ -1,12 +1,17 @@
 ##  :smile: Goei300's github 
 
-![goei300's GitHub stats](https://github-readme-stats.vercel.app/api?username=goei300&show_icons=true&theme=highcontrast)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goei300)](https://solved.ac/goei300)
+<br/>
+<br/>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![goei300's GitHub stats](https://github-readme-stats.vercel.app/api?username=goei300&show_icons=true&theme=highcontrast)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goei300)](https://solved.ac/goei300)
+
+<br/>
+<br/>
 
 
 ##  :notebook: Most used language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goei300&theme=dark)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goei300&theme=dark)
 
 
 
@@ -15,8 +20,8 @@
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)      
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)   
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
