@@ -3,8 +3,7 @@
 <br/>
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![goei300's GitHub stats](https://github-readme-stats.vercel.app/api?username=goei300&show_icons=true&theme=highcontrast)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goei300)](https://solved.ac/goei300)
+![goei300's GitHub stats](https://github-readme-stats.vercel.app/api?username=goei300&show_icons=true&theme=highcontrast) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goei300)](https://solved.ac/goei300)
 
 <br/>
 <br/>
